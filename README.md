@@ -29,3 +29,49 @@ A minimal Android task tracker: add tasks, mark complete, delete, and keep them 
 
 ## License
 MIT
+
+
+TaskTrack Lite is now fully built. All core features are complete: adding tasks, marking them complete, deleting them, and saving them with TinyDB.
+
+
+### Features
+- Add new tasks
+- Mark tasks as ✓ complete / • incomplete
+- Delete selected tasks
+- Persistent storage using TinyDB
+- Simple single-screen layout
+
+## Version ChangeLog
+
+### v1.0 (Week 2 – Initial Outline)
+- Created the outline with project description, problem, platform, and basic wireframes.
+
+### v1.1 (Week 5 – Wireframe Update)
+- Added hand-drawn and digital wireframes.
+- Published GitHub repo and Wiki.
+
+### v1.2 (Week 7 – Partial Build)
+- Added Add Task and Delete Task functionality.
+- Added TinyDB persistence.
+- Updated basic README and Wiki.
+
+### v1.3 (Week 8 – Full App Build)
+- Completed full TaskTrack Lite app.
+- Added Toggle Complete (✓).
+- Improved UI layout.
+- Finalized TinyDB logic.
+- Uploaded .aia project file.
+- Updated README and Wiki.
+
+### v1.4 (Final Submission)
+- Added final screenshots.
+- Cleaned documentation.
+
+
+### How to Use / Install
+1. Download the TaskTrackLite.aia file from this repository.
+2. Go to MIT App Inventor → Projects → Import project (.aia) from file.
+3. Build APK or test with AI Companion.
+
+
+
